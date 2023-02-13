@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'AaCc' 'ZeZe'
+echo 'input' | tr 'AaCc' 'ZeZe'
